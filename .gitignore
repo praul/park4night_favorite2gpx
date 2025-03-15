@@ -1,0 +1,4 @@
+gpx/*
+venv
+venv/*
+.env

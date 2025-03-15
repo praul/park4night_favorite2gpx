@@ -1,0 +1,3 @@
+nrequests
+python-dotenv
+beautifulsoup4
